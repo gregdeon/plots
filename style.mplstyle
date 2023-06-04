@@ -23,10 +23,10 @@ xtick.major.pad: 2.5     # distance to major tick label in points
 ytick.major.pad: 2.5     # distance to major tick label in points
 
 # color tweaks
-axes.edgecolor: (0.15, 0, 0.15)
-axes.labelcolor: (0.15, 0, 0.15)
-xtick.color: (0.15, 0, 0.15)
-ytick.color: (0.15, 0, 0.15)
+axes.edgecolor:  (0.10, 0.10, 0.10)
+axes.labelcolor: (0.10, 0.10, 0.10)
+xtick.color:     (0.10, 0.10, 0.10)
+ytick.color:     (0.10, 0.10, 0.10)
 axes.facecolor:  (1, 0.98, 0.98)
 # figure.facecolor: (1, 0.99, 0.96)
 
